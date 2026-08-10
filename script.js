@@ -2,7 +2,7 @@
 // SAP GO LIVE COUNTDOWN
 // =====================================
 
-const targetDate = new Date("August 10, 2026 09:00:00").getTime();
+const targetDate = new Date("August 10, 2026 21:00:00").getTime();
 
 const countdown = document.getElementById("countdown");
 const success = document.getElementById("success");
